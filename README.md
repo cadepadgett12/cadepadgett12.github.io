@@ -10,7 +10,6 @@ Camera Effects
 
 This is my camera effects project.
 
-![Cade - ](picture filename?raw=true "Optional Title")
-https://github.com/cadepadgett12/cadepadgett12.github.io/blob/master/Cade%20-%20filter.PNG
+![Cade - filter](https://github.com/cadepadgett12/cadepadgett12.github.io/blob/master/Cade%20-%20filter.PNG?raw=true "Optional Title")
 
 ***
